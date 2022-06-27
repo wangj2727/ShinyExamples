@@ -1,4 +1,4 @@
-# ChangeBoundary
+# ShinyExamples
 This repository stored R codes used to create an example R shiny app, which conducted T-test to compare sample means between two simulated random variables that are normally distributed. 
  
 
