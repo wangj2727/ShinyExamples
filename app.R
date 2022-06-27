@@ -1,6 +1,3 @@
-require(shiny)
-require(ggplot2)
-
 
 library(shiny)
 library(ggplot2)
@@ -51,6 +48,7 @@ ui <- fluidPage(
     column(3, verbatimTextOutput("ttest"))
   )
 )
+
 
 # server <- function(input, output, session) {
 #   output$hist <- renderPlot({
